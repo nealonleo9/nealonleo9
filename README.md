@@ -4,4 +4,4 @@
 🌱 I’m currently learning: Amazon AWS
 📫 How to reach me: nealonleo@aol.com
 ⚡ Fun fact: I've never coded before Lambda School
-😁 Github Daily Upload Streak: 02/01/2021 🟩
+😁 Current Github Daily Upload Streak: 02/01/2021 🟩
